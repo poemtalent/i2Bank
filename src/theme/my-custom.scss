@@ -1,0 +1,19 @@
+.toast{
+  font-size: 5px;
+  text-align: center;
+  width: 70%;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.tips {
+  color: #FF0042;
+  padding-right: 10px;
+  text-align: right;
+  font-size: 10px;
+  float: right;
+}
+
+.my-custom-class {
+  --background: #e5e5e5;
+}
